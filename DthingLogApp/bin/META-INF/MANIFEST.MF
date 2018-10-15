@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Applet-Vendor: Applet Suite Vendor
+Applet-Version: 1.0.0
+Dex-Location: classes.dex
+Applet-Name: DthingLogApp Applet Suite
+Applet-Jar-URL: DthingLogApp.jar
+Main-Class: LogApp
+

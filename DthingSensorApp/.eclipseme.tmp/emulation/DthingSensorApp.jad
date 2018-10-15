@@ -1,0 +1,7 @@
+Applet-Jar-Size: 8127
+Applet-Jar-URL: DthingSensorApp.jar
+Applet-Name: DthingSensorApp Applet Suite
+Applet-Vendor: Applet Suite Vendor
+Applet-Version: 1.0.0
+Dex-Location: classes.dex
+Main-Class: SensorApp

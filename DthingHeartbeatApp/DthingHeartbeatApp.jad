@@ -1,0 +1,6 @@
+Applet-Jar-URL: DthingHeartbeatApp.jar
+Applet-Name: DthingHeartbeatApp Applet Suite
+Applet-Vendor: Applet Suite Vendor
+Applet-Version: 1.0.0
+Dex-Location: classes.dex
+Main-Class: HeartBeatApp

@@ -1,0 +1,7 @@
+Applet-Jar-Size: 8383
+Applet-Jar-URL: DthingGpsApp.jar
+Applet-Name: DthingGpsApp Applet Suite
+Applet-Vendor: Applet Suite Vendor
+Applet-Version: 1.0.0
+Dex-Location: classes.dex
+Main-Class: GpsApp
